@@ -16,5 +16,5 @@ fields:
     display_utc: false
   label: Publish Date
   description: This date determines the order in which your blog posts will be shown.
-  hidden: true
+  hidden: false
   default: now
