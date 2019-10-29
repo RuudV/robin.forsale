@@ -18,5 +18,3 @@ fields:
   description: This date determines the order in which your blog posts will be shown.
   hidden: false
   default: now
-pages:
-- posts/eerste-blog-post.md
